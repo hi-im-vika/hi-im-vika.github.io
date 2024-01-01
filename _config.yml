@@ -32,6 +32,7 @@ github_username:  hi-im-vika
 theme: minima
 plugins:
   - jekyll-feed
+timezone: PST8PDT
 
 # Exclude from processing.
 # The following items will not be processed, by default.
