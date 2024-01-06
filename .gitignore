@@ -32,5 +32,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# exclude vscode config
+.vscode
+
 # exclude drafts
 _drafts
